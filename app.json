@@ -21,7 +21,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.umidjon_devv.weatherman"
     },
     "web": {
       "favicon": "./assets/favicon.png"
