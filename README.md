@@ -18,10 +18,10 @@ Quyidagi amallarni bajaring:
 
 ```bash
 # 🔽 1. Repositoryni yuklab oling
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
+git clone https://github.com/Umidjon-developer05/weather-app
 
 # 📂 2. Loyihaga kiring
-cd YOUR_REPOSITORY_NAME
+cd weather-app
 
 # 📦 3. Bog‘lanishlarni o‘rnating
 npm install
